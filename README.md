@@ -19,7 +19,7 @@ CLiCKAR accepts only single-end sequencing data. When paired-end sequencing data
 
 #### 3) Run CLiCKAR in each step accordance with the instructions.
 ##### 1) fork this repository locally 
-##### 2) either open the app.R file in Rstudio and click "Run App" or open R console and run: "runApp("CLiCKAR")"
+##### 2) either open the app.R file in Rstudio and click "Run App" or open R console and first load the shiny library and then run: "runApp("CLiCKAR")"
 **Step 1 procedure**  
 0. If necessary, download sample data files from ‘get sample!’ 
 1. Browse your files from your computer through 'Select query table' panel.
